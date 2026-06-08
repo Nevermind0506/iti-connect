@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66103869666",
+    "project_id": "iti-connect-52440",
+    "storage_bucket": "iti-connect-52440.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66103869666:android:d64c99a9dd36f75211debb",
+        "android_client_info": {
+          "package_name": "com.example.iti_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsIDGc10X1ayZnHQtb_QZK-eClWJnVkqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
