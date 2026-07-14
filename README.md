@@ -6,18 +6,7 @@
 
 **ITI Connect** adalah aplikasi _Smart Campus_ berbasis mobile yang dirancang khusus untuk digitalisasi layanan operasional di lingkungan **Institut Teknologi Indonesia (ITI)**. Aplikasi ini mempermudah civitas akademika dalam berinteraksi dengan fasilitas kampus secara efisien, transparan, dan aman.
 
-Saat ini, proyek telah mencapai **progres pengembangan 50%** dengan penyelesaian penuh pada **Modul Pelaporan Masalah (Problem Reporting)**.
-
----
-
-## 👥 Anggota Tim & Peran (Scrum Team)
-
-Proyek ini dikembangkan dengan menerapkan metodologi **Agile Scrum** dengan pembagian peran terstruktur:
-
-- **David Maulana Ibrahim** - _Product Owner & UI/UX Designer_ (SQA: Requirement & Style Guide | SSE: Secure Form UI Design)
-- **Mahfuzh** - _Project Manager_ (SQA: Scrum Backlog Management | SSE: Security Requirements)
-- **Dika** - _UI/UX Designer_ (SQA: Wireframing & Usability Testing | SSE: Error Prevention Design)
-- **Nazril** - _Backend Developer_ (SQA: Database Architecture | SSE: Firebase Security Rules & Auth)
+Saat ini, proyek telah mencapai **progres pengembangan 90%** dengan penyelesaian penuh pada **Modul Pelaporan Masalah (Problem Reporting)** dan **Modul Reservasi (Room Reservation)**.
 
 ---
 
